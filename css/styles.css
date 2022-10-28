@@ -1,0 +1,171 @@
+body {
+  background-color: #4e183c50;
+}
+
+.card {
+  width: 17rem;
+  background-color: #4e183c;
+  color: azure;
+}
+
+
+.portada_accion,
+.portada_comedia,
+.portada_estrenos,
+.portada_infantiles,
+.portada_romanticas {
+  text-shadow: 2px 2px black;
+}
+
+.generos h3 {
+  font-size: 2rem;
+}
+
+.generos article {
+  opacity: 1;
+  transition: all 1s linear;
+}
+.generos a {
+  opacity: 1;
+  transition: all 1s linear;
+}
+
+.portada_estrenos {
+  background-image: url("https://es.web.img2.acsta.net/c_310_420/pictures/22/08/29/15/54/5179903.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 420px;
+}
+
+.portada_accion {
+  background-image: url("https://es.web.img3.acsta.net/c_310_420/pictures/22/09/19/18/12/2005107.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 420px;
+}
+
+.portada_romanticas {
+  background-image: url("https://es.web.img3.acsta.net/c_310_420/pictures/22/08/12/08/39/5169809.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+
+  height: 420px;
+}
+
+.portada_comedia {
+  background-image: url("https://es.web.img2.acsta.net/c_310_420/pictures/22/06/14/12/51/2834709.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 420px;
+}
+
+.portada_infantiles {
+  background-image: url("https://es.web.img2.acsta.net/c_310_420/pictures/22/09/07/12/24/2686804.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 420px;
+}
+
+@media all and (min-width: 992px) {
+  .generos article:hover {
+    opacity: 0.8;
+    transition: opacity 0.5s linear;
+  }
+
+  .generos a:hover {
+    opacity: 0.6;
+    transition: all 1s linear;
+  }
+}
+
+
+.carousel-inner {
+  height: 50vh;
+}
+
+.carousel-item img {
+  height: 50vh;
+}
+
+.carousel-item p,
+.carousel-item h5 {
+  text-align: left;
+  text-shadow: 1px 1px black;
+}
+
+.carousel-item h5 {
+  font-weight: 700;
+  font-size: 1rem;
+  text-shadow: 1px 1px black;
+}
+
+.texto_chico {
+  font-size: 0.6rem;
+  text-shadow: 1px 1px black;
+}
+
+
+.p_validacion {
+  display: none;
+  text-align: center;
+  font-style: italic;
+}
+
+@media all and (min-width: 768px) {
+  .carousel-inner {
+    height: 70vh;
+  }
+
+  .carousel-item img {
+    height: 70vh;
+  }
+
+  .carousel-item h5 {
+    font-size: 2rem;
+  }
+
+  .texto_chico {
+    font-size: 1rem;
+  }
+}
+
+.fa-brands {
+  color: #ffff;
+}
+
+.fa-solid {
+  color: #ffff;
+}
+
+i:hover {
+  transform: scale(1.1);
+}
+
+a li:hover {
+  color: #ffff;
+  text-decoration: underline;
+}
+
+.imgfooter {
+  height: 80px;
+}
+
+.imgfooter:hover {
+  transform: scale(1.1);
+}
+
+
+.button-style:hover {
+  background-color: #4e183c;
+  color: black !important ;
+}
+
+.bg-color {
+  background-color: #4e183c;
+}
+
+@media all and (min-width:992px){
+  .quienes_somos{
+    width: 50%;
+  }
+}

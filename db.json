@@ -1,0 +1,469 @@
+{
+  "movies": [
+    {
+      "titulo": "Punisher",
+      "anio": "2004",
+      "duracion": "1h 36m",
+      "categoria": "Accion",
+      "descripcion": "Un agente encubierto del FBI se convierte en un asesino vigilante y se propone desatar su ira contra el hombre de negocios corrupto que masacró a toda su familia en una reunión.",
+      "img": "https://www.themoviedb.org/t/p/original/qGhn72JeMKpYKlyJKsOvCqyp4DF.jpg",
+      "id": 1
+    },
+    {
+      "titulo": "Deadpool",
+      "anio": "2016",
+      "duracion": "1h 49m",
+      "categoria": "Accion",
+      "descripcion": "Basado en el anti-héroe menos convencional de la Marvel, Deadpool narra el origen de un ex-operativo de la fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento adquiere poderes de curación rápida, adoptando Wade entonces el alter ego de Deadpool.",
+      "img": "https://i1.wp.com/www.tomosygrapas.com/wp-content/uploads/2021/02/Portada-Deadpool-30-An%CC%83os.jpg?ssl=1",
+      "id": 2
+    },
+    {
+      "titulo": "Accident Man: Hitman's Holiday",
+      "anio": "2022",
+      "duracion": "1h 36m",
+      "categoria": "Accion",
+      "descripcion": "The Accident Man está de regreso y esta vez debe vencer a los mejores asesinos del mundo, para proteger al hijo ingrato de un jefe de la mafia, salvar la vida de su único amigo y reavivar su relación con su maníaca figura paterna",
+      "img": "https://pics.filmaffinity.com/Accident_Man_Hitman_s_Holiday-836908615-large.jpg",
+      "id": 3
+    },
+    {
+      "titulo": "Tropa de élite",
+      "anio": " 2007",
+      "duracion": "1h 54m",
+      "categoria": "Accion",
+      "descripcion": "Brasil, año 1997. El capitán Nascimento (Wagner Moura) está al mando de un escuadrón del Batallón de Operaciones Policiales Especiales (BOPE), un cuerpo de élite de la policía de Río de Janeiro. Su misión es actuar en las favelas, en las que la policía, por miedo o por corrupción, no interviene.",
+      "img": "https://es.web.img3.acsta.net/medias/nmedia/18/66/88/41/20350649.jpg",
+      "id": 4
+    },
+    {
+      "titulo": "Tortugas Ninja",
+      "anio": "1990",
+      "duracion": "1h 34m",
+      "categoria": "Accion",
+      "descripcion": "Después de haber sido contaminadas con una misteriosa sustancia química, llamada Ooze, cuatro tortugas que viven en las alcantarillas de Nueva York se transforman y mutan, de repente, en grandes tortugas. Ahora pueden hablar y caminar como un ser humano. Entrenadas por una vieja pero sabia rata (el Maestro Splinter) las cuatro tortugas, Leonardo, Miguel Ángel, Donatello y Rafael, aprenderán técnicas ninja para enfrentarse a los más peligrosos criminales.",
+      "img": "https://www.tebeosfera.com/T3content/img/T3_numeros/_/1/tortugas_ninja_mutantes_planeta-deagostini_1990_1/w-423_tortugas_ninja_mutantes_planeta-deagostini_1990_1.jpg",
+      "id": 5
+    },
+    {
+      "titulo": "Karate Kid II, la historia continúa",
+      "anio": "1986",
+      "duracion": "1h 53m",
+      "categoria": "Accion",
+      "descripcion": "Daniel y el señor Miyagi viajan a Okinawa, a la pequeña aldea en la que el anciano nació y de la que tuvo que marcharse por un asunto de honor. Su padre está gravemente enfermo y quiere verlo, pero también le espera su antiguo amor de juventud. ",
+      "img": "https://es.web.img3.acsta.net/medias/nmedia/18/92/04/29/20176736.jpg",
+      "id": 6
+    },
+    {
+      "titulo": "Danger! Danger!",
+      "anio": "2021",
+      "duracion": "1h 16m",
+      "categoria": "Accion",
+      "descripcion": "Es 1985 y el aventurero Jonathan Danger acaba de aterrizar en una isla a 20 millas de la costa de África. Está buscando un templo que puede o no ser su billete para volver al pasado. Lástima que los soviéticos hayan llegado primero. Lástima que quieran retroceder en el tiempo para cambiar los acontecimientos de la Carrera Espacial, la Guerra Fría y la Segunda Guerra Mundial.",
+      "img": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/3/w1280/uoaYhQA7iyu4Zo4WxbWvGnW3B3X.jpg",
+      "id": 7
+    },
+    {
+      "titulo": "Guerra Mundial Z",
+      "anio": "2013",
+      "duracion": "1h 56m",
+      "categoria": "Accion",
+      "descripcion": "Cuando el mundo comienza a ser invadido por una legión de muertos vivientes, Gerry Lane, un experto investigador de las Naciones Unidas, intentará evitar el fin de la civilización en una carrera contra el tiempo y el destino. ",
+      "img": "https://es.web.img3.acsta.net/pictures/210/100/21010064_20130604100548596.jpg",
+      "id": 8
+    },
+    {
+      "titulo": "The Enforcer",
+      "anio": "2022",
+      "duracion": "1h 30m",
+      "categoria": "Accion",
+      "descripcion": "La película, un thriller negro ambientado en Miami, sigue a un policía que descubre que su jefe, una mujer fatal, se ha convertido en un traficante de sexo, lo que pone en peligro a una joven fugitiva de la que se ha hecho amigo.",
+      "img": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/pXC8JJbfnRWtbD8i2yKFqqWEO4X.jpg",
+      "id": 9
+    },
+    {
+      "titulo": "Section 8",
+      "anio": "2022",
+      "duracion": "1h 38m ",
+      "categoria": "Accion",
+      "descripcion": "Tras vengar el asesinato de su familia, un ex soldado sale de la cárcel y es reclutado por una oscura agencia gubernamental.",
+      "img": "https://m.media-amazon.com/images/M/MV5BODNjNzZhYjItMzk1Zi00Y2I3LTgxM2YtMjliM2Y5N2ZhNDY3XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_FMjpg_UX1000_.jpg",
+      "id": 10
+    },
+    {
+      "titulo": "Superbad",
+      "anio": "2007",
+      "duracion": "1h 59m",
+      "categoria": "Comedia",
+      "descripcion": "Seth (Jonah Hill) y Evan (Michael Cera), dos estudiantes co-dependientes de preparatoria, tienen grandes esperanzas en su fiesta de graduación: los jóvenes se sienten retados por la sociedad y planean divertirse en grande y conseguir chicas hermosas para finalmente poder integrarse con sus compañeros.",
+      "img": "https://pics.filmaffinity.com/superbad-543132496-large.jpg",
+      "id": 11
+    },
+    {
+      "titulo": "¿Qué pasó ayer?",
+      "anio": "2009",
+      "duracion": "1h 30m",
+      "categoria": "Comedia",
+      "descripcion": "Dos días antes de su boda, Doug y tres amigos viajan a Las Vegas para una fiesta inolvidable y salvaje. De hecho, cuando los tres acompañantes despiertan la mañana siguiente, no recuerdan nada ni encuentran a Doug..",
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTANK4Wz81dc-M3uegv56yYDxbBwtzfyl9kiuIqpzX01b1LZjGZ",
+      "id": 12
+    },
+    {
+      "titulo": "El lobo de Wall Street",
+      "anio": "2013",
+      "duracion": "2h 25m",
+      "categoria": "Comedia",
+      "descripcion": "Jordan Belfort, corredor de bolsa de Nueva York, quien fundó la compañía Stratton Oakmont cuando aún era un veinteañero, desarrolla hábitos de exceso y corrupción.",
+      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdr0LmNzcemZet29M9KHI353av2D6E8m_ECbhGB124QauUM-jK",
+      "id": 13
+    },
+    {
+      "titulo": "No miren arriba",
+      "anio": "2021",
+      "duracion": "2h 25m",
+      "categoria": "Comedia",
+      "descripcion": "Dos astrónomos mediocres descubren que, en pocos meses, un meteorito destruirá el planeta Tierra. A partir de ese momento, intentan advertir a la humanidad del peligro que se avecina a través de los medios de comunicación.",
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1k8lyh-hGMTv2uV2pn7uwFzK4VEtvdXSSBgX9mHkg05wHYc7z",
+      "id": 14
+    },
+    {
+      "titulo": "Perfectos desconocidos",
+      "anio": "2017",
+      "duracion": "1h 37m",
+      "categoria": "Comedia",
+      "descripcion": "Cuatro parejas de amigos que se conocen de toda la vida cenan juntos una noche. Uno de ellos propone un particular juego: todos deberán leer en voz alta los mensajes y atender las llamadas que reciban en sus móviles durante la cena.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmqYx_lOtaRovrSmj5W5yt3hfyQVmqdkL42lKGjxLXJImpgsCW",
+      "id": 15
+    },
+    {
+      "titulo": "Ricos y malcriados",
+      "anio": "2022",
+      "duracion": "1h 35m",
+      "categoria": "Comedia",
+      "descripcion": "Los tres hijos de Francis Bartek no se dedican a nada, excepto a gastar el dinero que el padre ha ganado trabajando duro. Cansado del comportamiento de sus hijos, Francis decide hacerles creer que están totalmente arruinados.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuthF8a4DAie4NpNPHeeHe1IVCcBuGKLV90GvWHHeWZEHJ2M67",
+      "id": 16
+    },
+    {
+      "titulo": "Shrek",
+      "anio": "2001",
+      "duracion": "1h 23m",
+      "categoria": "Comedia",
+      "descripcion": "Un ogro llamado Shrek vive en su pantano, pero su preciada soledad se ve súbitamente interrumpida por la invasión de los ruidosos personajes de los cuentos de hadas. Todos fueron expulsados de sus reinos por el malvado Lord Farquaad. Decidido a salvar su hogar, Shrek hace un trato con Farquaad y se prepara para rescatar a la princesa Fiona, quien será la esposa de Farquaad.",
+      "img": "https://pics.filmaffinity.com/shrek-903764423-large.jpg",
+      "id": 17
+    },
+    {
+      "titulo": "Relatos Salvajes",
+      "anio": "2014",
+      "duracion": "1h 59m",
+      "categoria": "Comedia",
+      "descripcion": "Seis relatos que alternan la intriga, la comedia y la violencia. Sus personajes se verán empujados hacia el abismo y hacia el innegable placer de perder el control al cruzar la delgada línea que separa la civilización de la barbarie.",
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfQLe-7nnWM87HAykKl-lySTO4pVKyMDBVH2HXMjuA82EmlwnT",
+      "id": 18
+    },
+    {
+      "titulo": "American Pie",
+      "anio": "1999",
+      "duracion": "1h 32m",
+      "categoria": "Comedia",
+      "descripcion": "Cuatro adolescentes se comprometen a perder su virginidad y hacen un pacto. Cada uno trata de ser el primero, pero se encuentran con obstáculos para lograr su objetivo.",
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHZQn7GMGyrnOCl0Z2rGZtdS-hcgwdwYGZcd7lVjBH5pZ8DCgm",
+      "id": 19
+    },
+    {
+      "titulo": "Mi pobre angelito",
+      "anio": "1990",
+      "duracion": "1h 43m",
+      "categoria": "Comedia",
+      "descripcion": "Un encantador niño de 8 años desafía a un torpe par de ladrones cuando, accidentalmente, sus padres lo olvidan en casa.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjPVntrnc_4CkRHoymQlfr6oqgu8qCjcYbu3i2hplBdDyHyk8E",
+      "id": 20
+    },
+    {
+      "titulo": "Black Adam",
+      "anio": "2022",
+      "duracion": "2h 4m",
+      "categoria": "Estrenos",
+      "descripcion": "Casi 5.000 años después de haber sido dotado de los poderes omnipotentes de los antiguos dioses -y encarcelado con la misma rapidez-, Black Adam es liberado de su tumba terrenal, listo para desatar su forma única de justicia en el mundo moderno.",
+      "img": "https://cloudfront-us-east-1.images.arcpublishing.com/copesa/NKRTL7HORJFTVBRJ4MZ2SB5UNI.png",
+      "id": 21
+    },
+    {
+      "titulo": "La escuela del bien y del mal",
+      "anio": "2022",
+      "duracion": "2h 26m",
+      "categoria": "Estrenos",
+      "descripcion": "Un grupo de jóvenes son llevados a una institución donde los entrenan para convertirse en héroes y villanos.",
+      "img": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/10/La-Escuela-del-Bien-y-del-Mal.jpeg?resize=313%2C463&quality=60&strip=all&ssl=1",
+      "id": 22
+    },
+    {
+      "titulo": "Barbarian",
+      "anio": "2022",
+      "duracion": "1h 42m",
+      "categoria": "Estrenos",
+      "descripcion": "Una joven que viaja a Detroit para una entrevista de trabajo alquila una casa para pasar la noche. Pero cuando llega a altas horas de la noche, descubre que la casa está doblemente reservada y que un hombre extraño ya se está quedando allí. En contra de su buen juicio, decide pasar la noche allí, pero pronto descubre que hay mucho más que temer que un invitado inesperado.",
+      "img": "http://img.aullidos.com/imagenes/varios/barbarian-poster.jpg",
+      "id": 23
+    },
+    {
+      "titulo": "El Espíritu de Bridge Hollow",
+      "anio": "2022",
+      "duracion": "1h 29m",
+      "categoria": "Estrenos",
+      "descripcion": "Cuando un malvado espíritu ancestral hace que los adornos de Halloween cobren vida y siembren el caos, un padre (Marlon Wayans) y su hija adolescente (Priah Ferguson) no tienen más remedio que trabajar en equipo para salvar su ciudad.",
+      "img": "https://es.web.img3.acsta.net/pictures/22/09/27/15/16/2448276.jpg",
+      "id": 24
+    },
+    {
+      "titulo": "Halloween: La Noche Final",
+      "anio": "2022",
+      "duracion": "1h 51m",
+      "categoria": "Estrenos",
+      "descripcion": "Cuatro años después de los eventos de Halloween en 2018, Laurie ha decidido liberarse del miedo y la ira y abrazar la vida. Pero cuando un joven es acusado de matar a un niño que estaba cuidando, se enciende una cascada de violencia y terror que obligará a Laurie a enfrentarse finalmente al mal que no puede controlar, de una vez por todas.",
+      "img": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/DIVEKVVXKFE23KUP7UDEK2GWXA.jpg",
+      "id": 25
+    },
+    {
+      "titulo": "Hombre Lobo por la noche",
+      "anio": "2022",
+      "duracion": "0h 55m",
+      "categoria": "Estrenos",
+      "descripcion": "En una noche oscura y sombría, un grupo secreto de matamonstruos surge de las sombras y se reúne en el siniestro templo de los Bloodstone tras la muerte de su líder. Tras una extraña y macabra ceremonia en su memoria, los participantes se ven arrastrados a una misteriosa y mortal competición por una poderosa reliquia, una cacería que acabará enfrentándolos a un peligroso monstruo.",
+      "img": "https://i0.wp.com/cuatrobastardos.com/wp-content/uploads/2022/09/Werewolf-By-Night-Poster.jpg?resize=1638%2C2048&ssl=1",
+      "id": 26
+    },
+    {
+      "titulo": "Smile",
+      "anio": "2022",
+      "duracion": "1h 55m",
+      "categoria": "Estrenos",
+      "descripcion": "Tras presenciar un extraño y traumático incidente con un paciente, la doctora Rose Cotter (Sosie Bacon) comienza a experimentar sucesos aterradores que no puede explicar. A medida que un miedo sobrecogedor comienza a afectar a todos los aspectos de su vida, Rose se verá obligada a afrontar a su problemático pasado para sobrevivir y escapar de su terrorífica nueva realidad.",
+      "img": "https://www.newdvdreleasedates.com/images/posters/large/smile-2022-01.jpg",
+      "id": 27
+    },
+    {
+      "titulo": "Jeepers Creepers: Reborn",
+      "anio": "2022",
+      "duracion": "1h 28m",
+      "categoria": "Estrenos",
+      "descripcion": "El Horror Hound festival celebra su primer evento en Luisiana, donde atrae a cientos de fanes del terror; entre ellos se encuentra Laine que, obligada a asistir por Chase, su novio, comienza a experimentar premoniciones inexplicables y visiones inquietantes relacionadas con el pasado de la ciudad y con El Creeper.",
+      "img": "https://www.themoviedb.org/t/p/original/pyFyhcXx4kNnLbzEY5z5fc3RehQ.jpg",
+      "id": 28
+    },
+    {
+      "titulo": "Pinocho",
+      "anio": "2022",
+      "duracion": "1h 29m",
+      "categoria": "Estrenos",
+      "descripcion": "Versión en acción real del aclamado cuento sobre una marioneta que se embarca en una trepidante aventura para convertirse en un niño de verdad. La historia también presenta a otros personajes, como Gepetto, el carpintero que fabrica a Pinocho y lo trata como a su propio hijo; Pepito Grillo, que hace las veces de guía y “conciencia” de Pinocho; el Hada Azul; el Honrado Juan; la gaviota Sofía, y el cochero.",
+      "img": "https://sm.ign.com/ign_es/screenshot/default/mahogany-payoff-poster-spain_ww6w.jpg",
+      "id": 29
+    },
+    {
+      "titulo": "After. Amor infinito",
+      "anio": "2022",
+      "duracion": "1h 28m",
+      "categoria": "Estrenos",
+      "descripcion": "El amor de Tessa y Hardin nunca ha sido fácil. Mientras él permanece en Londres después de la boda de su madre y se hunde cada vez más en su propia oscuridad, ella regresa a Seattle. Tessa es la única capaz de entenderle y calmarle... él la necesita, pero ella ya no es la chica buena y dulce que era cuando llegó a la universidad.",
+      "img": "https://www.aventurasnerd.com/wp-content/uploads/2022/07/unnamed-2-24.jpg",
+      "id": 30
+    },
+    {
+      "titulo": "Encanto",
+      "anio": "2021",
+      "duracion": "1h 39m",
+      "categoria": "Infantiles",
+      "descripcion": "Una joven colombiana puede ser la última esperanza para su familia, cuando descubre que la magia que rodea a Encanto, un lugar encantado que bendice a los niños con dones únicos, se encuentra en serio peligro.",
+      "img": "https://pics.filmaffinity.com/encanto-246546841-large.jpg",
+      "id": 31
+    },
+    {
+      "titulo": "Moana",
+      "anio": "2016",
+      "duracion": "1h 42m",
+      "categoria": "Infantiles",
+      "descripcion": "Vaiana, una adolescente de las islas del sur del Pacífico, atraviesa el océano y explora el mundo para demostrar que es tan valiente como el resto de su familia. En su periplo se encontrará con Maui, quien en el pasado fue un semidios poderoso.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0I_NLZX7ywKTPOE6dP5IORzdjWJvBLz7ZLeyVR0HHuXieSF6l",
+      "id": 32
+    },
+    {
+      "titulo": "Zootopia",
+      "anio": "2016",
+      "duracion": "1h 48m",
+      "categoria": "Infantiles",
+      "descripcion": "La metrópoli Zootopía es una ciudad de mamíferos, donde muchos animales viven y se desarrollan. Allí, la optimista agente Judy Hopps se convierte en la primera conejita de un cuerpo policial compuesto por animales duros y enormes. Judy está decidida a demostrar su valentía y se mete en un caso con Nick Wilde, un zorro parlanchín y estafador.",
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbQG_7hN9PBvVE5rFHZ5wGR_DENS7jDkXMsQFtTvOIcpl0XFoN",
+      "id": 33
+    },
+    {
+      "titulo": "Coco",
+      "anio": "2017",
+      "duracion": "1h 16m",
+      "categoria": "Infantiles",
+      "descripcion": "Coco es una película de animación por ordenador producida por Pixar Animation Studios y distribuida por Walt Disney Studios Motion Pictures.",
+      "img": "https://pics.filmaffinity.com/coco-155051069-large.jpg",
+      "id": 34
+    },
+    {
+      "titulo": "Lightyear",
+      "anio": "2022",
+      "duracion": "1h 40m",
+      "categoria": "Infantiles",
+      "descripcion": "Buzz Lightyear se embarca en una aventura intergaláctica con un grupo de reclutas ambiciosos y su compañero robot. Los amigos tendrán que aprender a trabajar juntos para escapar del malvado Zurg y su ejército de robots.",
+      "img": "https://pics.filmaffinity.com/lightyear-529062623-large.jpg",
+      "id": 35
+    },
+    {
+      "titulo": "Enredados",
+      "anio": "2010",
+      "duracion": "1h 40m",
+      "categoria": "Infantiles",
+      "descripcion": "Rapunzel, quien fue confinada a una torre cuando era pequeña, desea salir al mundo exterior. Cuando el ladrón más buscado del reino, Flynn Rider, se esconde en la torre, la adolescente decide hacer un trato con él.",
+      "img": "https://pics.filmaffinity.com/tangled-708117517-large.jpg",
+      "id": 36
+    },
+    {
+      "titulo": "Frozen: Una aventura congelada",
+      "anio": "2013",
+      "duracion": "1h 42m",
+      "categoria": "Infantiles",
+      "descripcion": "Una joven princesa valiente se establece con un montañista para encontrar a su hermana, cuyos poderes gélidos han atrapado a su reino en el invierno eterno. Con letras en pantalla y nieve saltando para seguir las canciones.",
+      "img": "https://pics.filmaffinity.com/frozen-680009505-large.jpg",
+      "id": 37
+    },
+    {
+      "titulo": "Red",
+      "anio": "2022",
+      "duracion": "1h 40m",
+      "categoria": "Infantiles",
+      "descripcion": "Red es una película estadounidense de comedia, de aventuras y que trata a la pubertad de una manera metafórica, animada por computadora, dirigida por Domee Shi, producida por Pixar Animation Studios y lanzada por Walt Disney Pictures",
+      "img": "https://pics.filmaffinity.com/turning_red-326602450-large.jpg",
+      "id": 38
+    },
+    {
+      "titulo": "Encantada",
+      "anio": "2007",
+      "duracion": "1h 43m",
+      "categoria": "Infantiles",
+      "descripcion": "Giselle, la princesa de un cuento de hadas, es desterrada por una reina malvada y termina en el Manhattan moderno, en donde la música, la magia y los finales felices no son muy frecuentes",
+      "img": "https://pics.filmaffinity.com/enchanted-988247581-large.jpg",
+      "id": 39
+    },
+    {
+      "titulo": "Sing: ¡Ven y canta!",
+      "anio": "2016",
+      "duracion": "1h 48m",
+      "categoria": "Infantiles",
+      "descripcion": "Un cerdo, un ratón, un puerco espín, un gorila, un elefante y otros animales se reúnen en un teatro koala para una competencia de canto.",
+      "img": "https://pics.filmaffinity.com/sing-887137050-large.jpg",
+      "id": 40
+    },
+    {
+      "titulo": "A dos metros de ti",
+      "anio": "2019",
+      "duracion": "1h 57m",
+      "categoria": "Romanticas",
+      "descripcion": "Stella, de 17 años, está ingresada en un hospital porque padece fibrosis quística. Su monótona existencia cambia cuando llega Will, un adolescente con la misma dolencia. Sin embargo, las normas del hospital prohíben el contacto entre ellos.",
+      "img": "https://pics.filmaffinity.com/five_feet_apart-293759292-large.jpg",
+      "id": 41
+    },
+    {
+      "titulo": "Bajo la misma estrella",
+      "anio": "2014",
+      "duracion": "2h 05m",
+      "categoria": "Romanticas",
+      "descripcion": "Dos adolescentes pacientes de cáncer inician un viaje para reafirmar sus vidas y visitar a un escritor solitario en Ámsterdam..",
+      "img": "https://pics.filmaffinity.com/the_fault_in_our_stars-457483777-large.jpg",
+      "id": 42
+    },
+    {
+      "titulo": "Yo antes de tí",
+      "anio": "2016",
+      "duracion": "1h 50m",
+      "categoria": "Romanticas",
+      "descripcion": "La vida de Louisa Clark, una chica alegre y alocada, que va empalmando un trabajo con otro para ayudar a su familia a subsistir, cambia por completo cuando comienza a trabajar como cuidadora de un joven millonario, quien quedó paralítico tras un accidente. Poco a poco, se va estableciendo entre ellos una conexión cada vez más íntima.",
+      "img": "https://pics.filmaffinity.com/me_before_you-594538815-large.jpg",
+      "id": 43
+    },
+    {
+      "titulo": "365 dias",
+      "anio": "2020",
+      "duracion": "1h 56m",
+      "categoria": "Romanticas",
+      "descripcion": "Para evitar que su relación se desmorone, una mujer viaja a Sicilia, donde conoce a un hombre peligroso llamado Massimo.",
+      "img": "https://pics.filmaffinity.com/365_dni-992282930-large.jpg",
+      "id": 44
+    },
+    {
+      "titulo": "Cincuenta sombras de Grey",
+      "anio": "2015",
+      "duracion": "2h 05m",
+      "categoria": "Romanticas",
+      "descripcion": "Una estudiante de literatura inicia un romance atrevido con un hombre de negocios controlador cuyos gustos sexuales se encuentran en la frontera del dolor y el placer.",
+      "img": "https://pics.filmaffinity.com/fifty_shades_of_grey-307638661-large.jpg",
+      "id": 45
+    },
+    {
+      "titulo": "La bella y la bestia",
+      "anio": "2017",
+      "duracion": "2h 03m",
+      "categoria": "Romanticas",
+      "descripcion": "La bella y la bestia es una película estadounidense​ de fantasía, musical y animación CGI con imagen real de 2017, dirigida por Bill Condon y escrita por Evan Spiliotopoulos y Stephen Chbosky",
+      "img": "https://pics.filmaffinity.com/beauty_and_the_beast-399141417-large.jpg",
+      "id": 46
+    },
+    {
+      "titulo": "La La Land: ciudad de sueños",
+      "anio": "2016",
+      "duracion": "2h 06m",
+      "categoria": "Romanticas",
+      "descripcion": "Sebastian, un pianista de jazz, y Mia, una aspirante a actriz, se enamoran locamente; pero la ambición desmedida que tienen por triunfar en sus respectivas carreras, en una ciudad como Los Ángeles, repleta de competencia y carente de piedad, pone en peligro su amor.",
+      "img": "https://pics.filmaffinity.com/la_la_land-262021831-large.jpg",
+      "id": 47
+    },
+    {
+      "titulo": "A través de mi ventana",
+      "anio": "2022",
+      "duracion": "1h 56m",
+      "categoria": "Romanticas",
+      "descripcion": "La atracción de Raquel por su vecino se convierte en algo más cuando él empieza a enamorarse de ella, pese a las objeciones de su familia.",
+      "img": "https://pics.filmaffinity.com/a_traves_de_mi_ventana-369671861-large.jpg",
+      "id": 48
+    },
+    {
+      "titulo": "Tres metros sobre el cielo",
+      "anio": "2010",
+      "duracion": "1h 58m",
+      "categoria": "Romanticas",
+      "descripcion": "Es la historia de dos jóvenes: uno problemático con tendencias violentas que inicia un romance con una niña rica..",
+      "img": "https://pics.filmaffinity.com/3_metros_sobre_el_cielo-961927049-large.jpg",
+      "id": 49
+    },
+    {
+      "titulo": "La ciudad perdida",
+      "anio": "2016",
+      "duracion": "1h 52m",
+      "categoria": "Romanticas",
+      "descripcion": "Un modelo de portada viaja a una jungla exótica para rescatar a una escritora de aventuras de un excéntrico multimillonario.",
+      "img": "https://pics.filmaffinity.com/the_lost_city-223738504-large.jpg",
+      "id": 50
+    },
+    {
+      "titulo": "Iron man 3",
+      "anio": "2013",
+      "duracion": "2h 10m",
+      "categoria": "Accion",
+      "descripcion": "csacas",
+      "img": "https://pics.filmaffinity.com/iron_man_3_aka_ironman_3-972235216-large.jpg",
+      "id": 51
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@admin.com",
+      "pw": "admin"
+    }
+  ]
+}
